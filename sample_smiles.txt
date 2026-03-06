@@ -1,0 +1,5 @@
+CC(=O)OC1=CC=CC=C1C(=O)O
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Cn1cnc2n(C)c(=O)n(C)c(=O)c12
+CC1=C(C(=O)NC(=O)N1)N
+CCOC(=O)C1=CC=CC=C1N
