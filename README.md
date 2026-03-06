@@ -320,4 +320,4 @@ MIT License
 # Author
 
 Abhishek Nandy  
-AI / ML Engineer
+Chief Data Scientist Rezolve| Lead Engineer Founding team Adstitch
